@@ -7,7 +7,7 @@
 <name>Assignment 5</name>
 <description>Assignment 5 app</description>
 <author>Michael Schoeneman</author>
-<preference name="phonegap-version" value="cli-6.3.0" />
+<preference name="phonegap-version" value="cli-6.5.0" />
 <plugin name="cordova-plugin-whitelist" source="npm" />
 <access origin="*" /></widget>
 
